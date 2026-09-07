@@ -130,7 +130,7 @@ E-commerce businesses generate large volumes of transactional data across multip
 
 ---
 
-## 8. Project Takeaway
+## 9. Project Takeaway
 
 This project demonstrates the ability to take raw, disconnected e-commerce data and turn it into a structured, interactive, decision-ready analytics tool. Beyond building charts, it required thinking like an analyst *and* a business stakeholder — identifying which questions matter (channel performance, product profitability, customer trends, campaign performance), modeling the data to answer them cleanly, and designing a report that non-technical users can navigate confidently.
 
