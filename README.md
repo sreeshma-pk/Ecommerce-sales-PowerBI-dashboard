@@ -121,6 +121,12 @@ E-commerce businesses generate large volumes of transactional data across multip
 |                         
 └── README.md
 ```
+## 8. Dashboard Preview
+  <img src="Screenshots/Salesoverview.png" width="900">
+  <img src="Screenshots/ProductAnalysis.png" width="900">
+  <img src="Screenshots/CustomerAnalysis.png" width="900">
+  <img src="Screenshots/CampaignAnalysis.png" width="900">
+
 
 ---
 
